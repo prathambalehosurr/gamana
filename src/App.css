@@ -1,0 +1,19 @@
+/* App-specific styles - most styles are in index.css and Tailwind */
+
+.credit {
+  text-align: center;
+  padding: 20px 24px 32px;
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+}
+
+.credit-link {
+  color: var(--color-text-secondary);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.credit-link:hover {
+  color: var(--color-accent-orange);
+}
