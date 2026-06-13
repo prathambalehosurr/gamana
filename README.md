@@ -11,7 +11,7 @@ A beautiful, feature-rich Pomodoro timer application built with React and TypeSc
 
 ## 🌐 Live Demo
 
-🔗 **[Gamana]()**
+🔗 **[Gamana](https://gamana-iota.vercel.app/)**
 
 ---
 
