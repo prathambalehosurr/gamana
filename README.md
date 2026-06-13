@@ -84,8 +84,8 @@ A beautiful, feature-rich Pomodoro timer application built with React and TypeSc
 
 ```bash
 # Clone the repository
-
-
+https://github.com/prathambalehosurr/gamana
+cd gamana
 
 # Install dependencies
 npm install
